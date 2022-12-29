@@ -65,6 +65,7 @@ h3{
     margin-left: 30px;    
     position:absolute;
     margin-top: 40px;
+    transition:.4s;
 }
 
 .btn-1{
